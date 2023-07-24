@@ -1,2 +1,3 @@
 This is file 2
 make changes to merge
+Also make some changes
